@@ -1,0 +1,19 @@
+nav{
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 7px;
+}
+a:hover{
+    background-color: blueviolet;
+    color: yellow;
+    font-size: 19px;
+}
